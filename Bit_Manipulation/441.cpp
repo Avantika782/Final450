@@ -18,6 +18,5 @@ int main()
             }
         cout << count << endl;
     }
-    //    cout << "Hello world!" << endl;
     return 0;
 }
