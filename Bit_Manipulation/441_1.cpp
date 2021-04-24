@@ -1,3 +1,5 @@
+//Count set bits in an integer
+
 #include <iostream>
 #include<bits/stdc++.h>
 
